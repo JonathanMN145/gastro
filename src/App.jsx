@@ -11,6 +11,6 @@ function App() {
 <h1>Hello CodeSandbox</h1>
 </>
   )
-}
+}console.log('Hello world')
 
 export default App
